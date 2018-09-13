@@ -1,0 +1,13 @@
+build/
+
+bin/
+
+lib/
+
+debug_data
+
+*.a
+
+*.o
+
+*.usr
